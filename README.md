@@ -1,4 +1,7 @@
 # longterm_citation
+A demo for predicting the long term impact of researches by an interesting SciSci(science of science) algorithm,
+taking network science as an example. Have a try!
+
 本项目是集智俱乐部妙算复杂第二期文章的数据和代码
 
 自小世界网络模型和无标度网络模型提出后，复杂网络越来越成为重要的研究方法，其理论进展层出不穷。为了梳理近年来网络科学领域的趋势，我们利用AL. Barabási、王大顺、宋朝鸣等人提出的科学学算法，筛选出过去十年发表在Physics Reports杂志的网络科学相关综述文章，并从长期影响力的综合视角，筛选出最有代表性的10篇文章。
