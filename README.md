@@ -18,3 +18,6 @@ longterm_citation_wl.ipynb是对拟合问题的补充，用的是mathmatica语�
 
 ## references
 Wang D, Song C, Barabási A L. Quantifying long-term scientific impact[J]. Science, 2013, 342(6154): 127-132.
+
+## License
+This project is licensed under the Apache-2.0 License.
