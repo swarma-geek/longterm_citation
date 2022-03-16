@@ -7,5 +7,9 @@
 
 更多复杂科学资料见[集智斑图网站](https://pattern.swarma.org/)
 
+## usage
+主代码为longterm_citation.ipynb文件
+longterm_citation_wl.ipynb是对拟合问题的补充，用的是mathmatica语言
+
 ## references
 Wang D, Song C, Barabási A L. Quantifying long-term scientific impact[J]. Science, 2013, 342(6154): 127-132.
